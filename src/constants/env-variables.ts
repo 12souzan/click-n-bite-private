@@ -1,0 +1,12 @@
+// env-variables.ts
+import * as z from "zod"
+
+const envSchema = z.object({
+	NEXT_PUBLIC_SERVER_URL: z.string().min(1),
+	NEXT_PUBLIC_CALENDLY_URL: z.string().min(1)
+})
+
+export const env = envSchema.parse({
+	NEXT_PUBLIC_SERVER_URL: process.env.NEXT_PUBLIC_SERVER_URL,
+	NEXT_PUBLIC_CALENDLY_URL: process.env.NEXT_PUBLIC_CALENDLY_URL
+})

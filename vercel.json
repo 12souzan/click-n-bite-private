@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "app/api/**/*.js": {
+      "maxDuration": 60
+    }
+  },
+  "regions": ["iad1"],
+  "env": {
+    "PAYLOAD_SECRET": "@payload_secret",
+    "DATABASE_URL": "@database_url",
+    "NEXT_PUBLIC_SERVER_URL": "https://your-app.vercel.app"
+  }
+}

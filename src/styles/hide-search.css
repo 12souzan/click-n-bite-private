@@ -1,0 +1,9 @@
+/* hide the search bar */
+.list-controls {
+  display: none !important;
+}
+
+/* hide filters and column controls too (optional) */
+.list-controls__wrap , .collection-list__no-results{
+  display: none !important;
+}

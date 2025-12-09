@@ -1,0 +1,424 @@
+{
+    "landing": {
+        "hero": {
+            "sectionBadge": "Trusted by 500+ Restaurants",
+            "title": "Transform Your Restaurant with <span>Smart Digital Menus</span>",
+            "description": "Create stunning QR code menus, enable contactless ordering, and provide an exceptional dining experience. All managed through our powerful CMS platform.",
+            "actions": {
+                "demo": "Try Demo",
+                "contact": "Let's Talk"
+            },
+            "features": {
+                "noSetupFees": "No Setup Fees",
+                "support": "24/7 Support"
+            },
+            "mockItem": {
+                "title": "Scan & Order",
+                "action": "Add",
+                "items": {
+                    "margherita": {
+                        "name": "Margherita Pizza",
+                        "price": "18.99"
+                    },
+                    "caesar": {
+                        "name": "Caesar Salad",
+                        "price": "12.99"
+                    }
+                }
+            },
+            "floatingElements": {
+                "liveOrders": "Live Orders",
+                "easySharing": "Easy Sharing"
+            }
+        },
+        "features": {
+            "sectionBadge": "Powerful Features",
+            "title": "Everything You Need for Modern Dining",
+            "description": "Our comprehensive digital menu solution includes all the features your restaurant needs to provide an exceptional customer experience.",
+            "items": {
+                "enterpriseCms": {
+                    "title": "Enterprise CMS",
+                    "description": "Complete control over your menu with our powerful content management system. Add, edit, and organize your menu items with ease."
+                },
+                "qrCodeGeneration": {
+                    "title": "QR Code Generation",
+                    "description": "Instantly generate QR codes for contactless menu access. Customers can scan and browse your menu safely."
+                },
+                "digitalOrdering": {
+                    "title": "Digital Ordering",
+                    "description": "Let customers add items to their basket and create orders directly from their phones."
+                },
+                "orderSharing": {
+                    "title": "Order Sharing",
+                    "description": "Customers can share their orders via WhatsApp, email, or any social platform for easy group ordering."
+                },
+                "mobileOptimized": {
+                    "title": "Mobile Optimized",
+                    "description": "Fully responsive design that works perfectly on all devices - phones, tablets, and desktops."
+                },
+                "multiLanguageSupport": {
+                    "title": "Multi-language Support",
+                    "description": "Serve international customers with support for multiple languages and currencies."
+                },
+                "247PrioritySupport": {
+                    "title": "24/7 Priority Support",
+                    "description": "Get instant help when you need it most. Our dedicated support team is available around the clock to ensure your restaurant never misses a beat."
+                }
+            },
+            "featured": "Featured"
+        },
+        "testimonials": {
+            "sectionBadge": "Trusted by 500+ Restaurants",
+            "title": "Trusted by Restaurants Worldwide",
+            "description": "Join hundreds of restaurants that have transformed their customer experience with our digital menu solution.",
+            "marqueeHeadline": "Restaurants Powered by",
+            "clientTestimonials": {
+                "first": {
+                    "name": "Sarah Johnson",
+                    "role": "Owner, Bistro Modern",
+                    "content": "This digital menu solution transformed our customer experience. Orders are more accurate and our staff can focus on service.",
+                    "avatar": "SJ"
+                },
+                "second": {
+                    "name": "Mike Chen",
+                    "role": "Manager, Dragon Palace",
+                    "content": "The QR code feature was a game-changer during COVID. Now customers prefer it even post-pandemic!",
+                    "avatar": "MC"
+                },
+                "third": {
+                    "name": "Elena Rodriguez",
+                    "role": "Owner, Tapas Barcelona",
+                    "content": "Easy to set up, beautiful design, and our customers love sharing orders with friends. Highly recommended!",
+                    "avatar": "ER"
+                },
+                "fourth": {
+                    "name": "James Wilson",
+                    "role": "Chef, The Modern Kitchen",
+                    "content": "The CMS is incredibly intuitive. I can update our menu in minutes, and it reflects instantly for customers.",
+                    "avatar": "JW"
+                },
+                "fifth": {
+                    "name": "Maria Santos",
+                    "role": "Owner, Café Luna",
+                    "content": "Our revenue increased by 30% after implementing clicknbite. The ordering system is seamless!",
+                    "avatar": "MS"
+                },
+                "sixth": {
+                    "name": "David Kim",
+                    "role": "Manager, Seoul Kitchen",
+                    "content": "Multi-language support helped us serve our diverse customer base better. Fantastic platform!",
+                    "avatar": "DK"
+                }
+            }
+        },
+        "pricing": {
+            "sectionBadge": "Simple, Transparent Pricing",
+            "title": "Simple, Transparent Pricing",
+            "description": "One comprehensive plan with all features included. Choose your billing cycle and get started today.",
+            "billingCycle": {
+                "monthly": "Monthly",
+                "annually": "Annually",
+                "discount": "{discount}% OFF"
+            },
+            "plan": {
+                "title": "Professional Plan",
+                "description": "Everything you need to run a modern restaurant",
+                "price": "${price}<span>/month</span>",
+                "discount": "Billed annually (${price}/year) - Save ${discount}!",
+                "features": {
+                    "first": "Unlimited menu items & categories",
+                    "second": "Enterprise-grade CMS platform",
+                    "third": "QR code generation & management",
+                    "fourth": "Digital ordering & basket system",
+                    "fifth": "Order sharing via WhatsApp & social",
+                    "sixth": "Mobile-optimized design",
+                    "seventh": "Multi-language support",
+                    "eighth": "Custom branding & themes",
+                    "ninth": "Real-time menu updates",
+                    "tenth": "Analytics & insights",
+                    "eleventh": "Priority customer support",
+                    "twelfth": "SSL security & hosting included"
+                },
+                "actions": {
+                    "monthly": {
+                        "getStarted": "Get Started Monthly",
+                        "switchToMonthly": "Switch to Monthly"
+                    },
+                    "annually": {
+                        "getStarted": "Get Started Annually",
+                        "switchToAnnual": "Switch to Annual"
+                    }
+                }
+            },
+            "footerMessage": "No setup fees • Cancel anytime"
+        },
+        "cta": {
+            "title": "Ready to Transform Your Restaurant to the Next Level?",
+            "description": "Join hundreds of successful restaurants using clicknbite to provide exceptional dining experiences. Start your digital transformation today.",
+            "actions": {
+                "demo": "View Demo",
+                "contact": "Let's Talk"
+            }
+        },
+        "application": {
+            "navLinks": {
+                "features": "Features",
+                "pricing": "Pricing",
+                "testimonials": "Happy Clients"
+            },
+            "legalLinks": {
+                "privacy": "Privacy Policy",
+                "terms": "Terms of Service",
+                "cookies": "Cookie Policy"
+            },
+            "actions": {
+                "contact": "Contact Us",
+                "demo": "View Demo",
+                "bookMeeting": "Book a Meeting"
+            },
+            "footer": {
+                "columns": {
+                    "product": "Product",
+                    "legal": "Legal"
+                },
+                "logoDescription": "Empowering restaurants with modern digital menu solutions for the future of dining.",
+                "allRightsReserved": "© {year} All rights reserved.",
+                "developedBy": "Developed by"
+            }
+        }
+    },
+    "contact": {
+        "header": {
+            "title": "Let's Transform Your Restaurant",
+            "description": "Ready to provide your customers with a modern dining experience? Get in touch with our team to get started."
+        },
+        "getInTouch": {
+            "title": "Get in Touch",
+            "phone": "Phone",
+            "email": "Email",
+            "office": "Office",
+            "businessHours": "Business Hours",
+            "phoneNumber": "+961 71 113 255",
+            "address": "Beirut, Al Manara street \n Lebanon",
+            "businessHoursDetails": "Mon-Fri 9am-6pm PST",
+            "closedDetails": "Saturday-Sunday: Closed",
+            "quickResponse": {
+                "title": "Quick Response Guarantee:",
+                "description": "We respond to all inquiries within 24 hours during business days."
+            },
+            "calendly": {
+                "title": "Book a Meeting",
+                "description": "Book a personalized walkthrough"
+            },
+            "or": "OR"
+        },
+        "contactForm": {
+            "title": "Send Us a Message",
+            "fields": {
+                "firstName": "First Name",
+                "lastName": "Last Name",
+                "email": "Email",
+                "phone": "Phone Number",
+                "restaurantName": "Restaurant Name",
+                "plan": "Selected plan",
+                "message": "Your custom message"
+            },
+            "placeholders": {
+                "firstName": "Enter your first name",
+                "lastName": "Enter your last name",
+                "email": "Enter your email address",
+                "phone": "Enter your phone number",
+                "restaurantName": "Your restaurant name",
+                "plan": "Select your plan",
+                "message": "Tell us about your restaurant and any specific requirements..."
+            },
+            "planOptions": {
+                "monthly": "Monthly <span>(${price}/month)</span>",
+                "annually": "Yearly <span>(${price}/month)</span>"
+            },
+            "actions": {
+                "send": "Send Message",
+                "sending": "Sending Message...",
+                "privacyPolicy": "By submitting this form, you agree to our privacy policy and terms of service."
+            }
+        },
+        "contactSuccess": {
+            "title": "Thank You!",
+            "description": "We've received your message and will get back to you within 24 hours to discuss your digital menu needs.",
+            "nextSteps": {
+                "title": "Next steps?",
+                "actions": {
+                    "demo": {
+                        "title": "Try Our Demo",
+                        "description": "See how easy it is to create your menu"
+                    },
+                    "bookMeeting": {
+                        "title": "Book a Meeting",
+                        "description": "Book a personalized walkthrough"
+                    },
+                    "customerStories": {
+                        "title": "Customer Stories",
+                        "description": "Read what other restaurants say"
+                    },
+                    "backHome": {
+                        "title": "Back Home",
+                        "description": "Go back to the home page"
+                    }
+                }
+            }
+        }
+    },
+    "menu": {
+        "categories": {
+            "title": "Categories"
+        },
+        "menuItems": {
+            "noItems": "No items found",
+            "tags": {
+                "spicy": "Spicy",
+                "popular": "Popular",
+                "vegetarian": "Vegetarian",
+                "vegan": "Vegan",
+                "gluten-free": "Gluten Free",
+                "dairy-free": "Dairy Free",
+                "nut-free": "Nut Free",
+                "high-protein": "High Protein",
+                "low-calorie": "Low Calorie",
+                "chef-special": "Chef's Special",
+                "seasonal": "Seasonal"
+            },
+            "addToBasket": "Add to basket"
+        }
+    },
+    "basket": {
+        "title": "My Basket",
+        "titleshared":"Shared Basket",
+        "empty": "Your basket is empty",
+        "browseMenu": "Browse Menu",
+        "itemsCount": "{count} {count, plural, one {item} other {items}}",
+        "itemComment": {
+            "trigger": "Add special instructions",
+            "placeholder": "Add special instructions for this item",
+            "cancel": "Cancel",
+            "save": "Save"
+        },
+        "footer": {
+            "tableNumber": "Table Number",
+            "calories": "Calories",
+            "total": "Total",
+            "actions": {
+                "preview": "preview order",
+                "clear": "Clear All",
+                "addAllToCart":"Add All To Cart",
+                "YourCart": "Review Your Cart"
+            }
+        }
+    },
+    "order": {
+        "notFound": {
+            "title": "Order Not Found",
+            "description": "We couldn't find the order you're looking for. It may have expired or been removed.",
+            "returnToMenu": "Return to Menu"
+        },
+        "actions": {
+            "showQR": "Show QR",
+            "hideQR": "Hide QR",
+            "share": "Share",
+            "print": "Print",
+            "whatsapp": "WhatsApp",
+            "orderSummary": "Order Summary",
+            "shareText": "Check out my order details"
+        },
+        "qrCode": {
+            "scanToView": "Scan to view this order on another device",
+            "copied": "Copied",
+            "copyLink": "Copy Link"
+        },
+        "priceForEach": "each",
+        "footer": {
+            "total": "Total",
+            "thankYou": "Thank you for dining with us!",
+            "showToWaiter": "Show this to your waiter to place your order.",
+            "checkoutCaption": "Click proceed checkout, pick your payment, and confirm your order!"
+        },
+        "checkout": "Proceed to Checkout",
+        "checkoutSuccess": "Order placed successfully!",
+        "checkoutError": "Failed to process order. Please try again."
+    },
+    "checkout": {
+        "back": "Back",
+        "returnToMenu": "Return to Menu",
+        "title": "Checkout",
+        "table": "Table",
+        "paymentFailed": "Payment Failed",
+        "orderCreated": "Order created successfully",
+        "orderCreatedError": "Failed to create order",
+        "card": {
+            "method": {
+                "title": "Payment Method",
+                "subtitle": "Complete your payment to place your order",
+                "card": {
+                    "label": "Credit/Card",
+                    "description": "Pay securely with your card"
+                },
+                "whish": {
+                    "label": "Whish Pay",
+                    "description": "Pay with your Whish account"
+                },
+                "cash": {
+                    "label": "Cash",
+                    "description": "Pay with cash when order arrives"
+                },
+                "default": "Payment method",
+                "Processing": "Processing your payment..."
+            }
+        },
+        "orderSummary": {
+            "items": "Items",
+            "item": "{count, plural, one {item} other {items}}",
+            "total": "Order Total"
+        }
+    },
+    "SuccessPayment": {
+        "orderDetails": "Order Details",
+        "orderNumber": "Order Number",
+        "tableNumber": "Table Number",
+        "status": "Status",
+        "preparing": "Preparing",
+        "orderNotFound": "Order Not Found",
+        "orderNotFoundMessage": "We couldn't find your order data. Please try placing your order again.",
+        "paymentSuccessful": "Payment Successful!",
+        "thankYouMessage": "Thank you for your order. Our chefs are already preparing your delicious meal.",
+        "scanQR": "Scan for Order Details",
+        "showOrderNumber": "Show this order number to our staff if you have any questions about your order.",
+        "enjoyMeal": "We hope you enjoy your meal! 🍽️"
+    },
+    "PaymentCancelled": {
+        "title": "Payment Cancelled",
+        "description": "Your payment was cancelled. No charges have been made to your account.",
+        "orderDetails": "Your Order Details",
+        "orderNumber": "Order Number",
+        "tableNumber": "Table Number",
+        "status": "Status",
+        "paymentStatus": "Payment Cancelled",
+        "helpTitle": "Need help?",
+        "helpDescription": "If you encountered issues with payment, please try again or contact our staff for assistance.",
+        "actionTitle": "What would you like to do?",
+        "tryAgainButton": "Try Payment Again",
+        "backToMenuButton": "Back to Menu",
+        "footerText": "Need immediate assistance? Contact staff at your table."
+    },
+    "OrderStatus": {
+        "pending": "Pending",
+        "paid": "Paid",
+        "failed": "Failed",
+        "cancelled": "Cancelled"
+    },
+    "general": {
+        "theme": {
+            "light": "Light",
+            "dark": "Dark",
+            "system": "System"
+        }
+    }
+}
